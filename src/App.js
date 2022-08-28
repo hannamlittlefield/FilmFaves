@@ -28,7 +28,7 @@ const App = () => {
 
 
 	return (
-		<div className='container-fluid film-faves-project'>
+		<div className='container-fluid movie-grid'>
       <div className='row d-flex align-items-center mt-4 mb-4'>
         <MovieListHeading heading='Films' />
         <SearchBox searchValue={searchValue} setSearchValue={setSearchValue} />
