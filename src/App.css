@@ -16,10 +16,6 @@ body {
 }
 
 
-.favoritescontainer{
-  width: 400px;
-}
-
 .image-container:hover {
 	cursor: pointer;
 	transform: scale(1.1);
@@ -32,9 +28,9 @@ body {
 .overlay {
 	position: absolute;
 	background: #D9D9D9;
-	width: 400px;
 	transition: 0.5s ease;
 	opacity: 0;
+  width: 80%;
 	bottom: 0;
 	font-size: 20px;
 	padding: 20px;
