@@ -77,7 +77,7 @@ const App = () => {
 				<MovieList
 					movies={favourites}
 					favouriteComponent={AddFavourites}
-					handleFavouritesClick={addFavouriteMovie}
+          handleFavouritesClick={removeFavouriteMovie}
 				/>
 			</div>
 		</div>

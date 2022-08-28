@@ -8,11 +8,13 @@ body {
 	flex-wrap: nowrap;
 }
 
+
 .image-container {
 	position: relative;
 	transition: transform 0.2s;
   width: 400px;
 }
+
 
 .favoritescontainer{
   width: 400px;
