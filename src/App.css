@@ -1,5 +1,9 @@
-.App {
-  text-align: center;
-  background-color: #CAE5FF;
+body {
+	background: #141414;
+	color: #ffffff;
 }
 
+.film-faves-project > .row {
+	overflow-x: auto;
+	flex-wrap: nowrap;
+}
